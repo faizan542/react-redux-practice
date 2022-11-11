@@ -1,0 +1,17 @@
+.text-sytling{
+    text-decoration: none;
+    color: black;
+}
+.text-sytling:hover{
+    color: black;
+}
+.title{
+    font-weight: 800;
+}
+.price{
+    color: blueviolet;
+}
+.category{
+    color: lightgrey;
+    font-weight: 700;
+}
